@@ -1,0 +1,33 @@
+format: jb-book
+root: README.md
+chapters:
+  - file: groups/README.md
+  - file: external/README.md
+    sections: 
+      - file: external/customs.md
+      - file: external/colloborators.md
+  - file: emails/README.md
+    sections:
+      - file: emails/writing_formal_emails.md
+  - file: audio_and_video/README.md
+    sections:
+      - file: audio_and_video/phone.md
+      - file: audio_and_video/meetings.md
+      - file: audio_and_video/live_streaming.md
+  - file: todo/README.md
+    section: 
+      - file: todo/todo.md
+      - file: todo/calendars.md
+  - file: documents/README.md
+    sections: 
+      - file: documents/doc.md
+      - file: documents/table.md
+      - file: documents/network_disk.md
+  - file: oa/README.md
+    sections:
+      - file: oa/announcements.md
+      - file: oa/approvals.md
+      - file: oa/reports.md
+  - file: nodifications/README.md
+    sections:
+      - file: nodifications/robots.md
