@@ -1,5 +1,6 @@
 # 使用模板创建
-
+## 新建模板
+![](images/create_templates.png)
 ## 使用官方模板
 
 TODO：详细描述几个模板。
