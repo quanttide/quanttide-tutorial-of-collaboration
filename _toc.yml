@@ -38,4 +38,4 @@ parts:
           - file: nodifications/robots.md
   - caption: 方法篇
     chapters:
-      - file: lesgiation/README.md
+      - file: deliberation/README.md
